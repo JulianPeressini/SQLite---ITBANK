@@ -1,0 +1,1 @@
+SELECT MAX(loan_total) AS max_prestamo from prestamo
